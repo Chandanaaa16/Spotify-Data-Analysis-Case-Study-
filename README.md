@@ -25,5 +25,6 @@ KMeans Clustering of Song Types
 Insights & Recommendations for Composing a Hit
 
 Visualizations and a Flowchart System Diagram
+
 📈 Key Outcome
 The project identifies the key characteristics of hit songs and proposes a “Hit Song Blueprint” based on trends in energy, tempo, mood, and instrumentation.
